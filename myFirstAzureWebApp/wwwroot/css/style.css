@@ -1,0 +1,31 @@
+
+body {
+	margin: 0;
+	background-color: hsla(100, 80%, 40%, 1)
+}
+h1 {
+	font-size: 100px;
+	color: black;
+	border-radius:15px 50px 30px 5px;
+	padding: 20px;
+	background: #66ff99;
+	margin-left: -25%%;
+}
+h3{
+	margin: 10px 150px 10px 40px;
+}
+h4{
+	margin: 50px 150px 10px 80px;
+}
+p {
+	margin-left: 20px;
+	color: georgian;
+}
+div {
+ 	
+	background-color: hsla(160, 50%, 70%, 1);
+	width: 50 px;
+	border: 25px hsla(100, 80%, 60%, 1);
+	padding: 50px;
+	margin-left: 25%;
+	} 
